@@ -21,12 +21,12 @@ Follow these steps to install and set up the project environment:
 
 3. Install the required libraries:
     ```bash
-    pip install tensorflow-gpu
+    refer to requirements.txt
     ```
 
 ## Usage
 Below are the instructions on how to use this project:
 
-Run the main.py model to train the model.
-Use  to load the model and then you can test it in the testdataloader.
+Run the finalproj.ipynb to train the model.
+Use 100epoch.keras to load the model and then you can test the model in the testloader.
 Hyperparameters can be changed for further study.
