@@ -28,5 +28,7 @@ Follow these steps to install and set up the project environment:
 Below are the instructions on how to use this project:
 
 Run the finalproj.ipynb to train the model.
+
 Use 100epoch.keras to load the model and then you can test the model in the testloader.
+
 Hyperparameters can be changed for further study.
